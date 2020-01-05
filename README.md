@@ -1,2 +1,16 @@
 # 24-hour-coding-prep-challenge
-I will commit to spending 24 hours starting from January 4, 2020, at 10:00 AM till January 5 at 10:00 PM. During that time I will study data structures and algorithms. I will document my precess and all useful resources
+
+## Day 1 (January 4, 2020)
+
+I started my 24-hour coding Interview prep challenge at 10:00 AM. I have a perfect cup of coffee and I am ready to crack the coding interview prep. Here are the topics I will go through today.
+
+- [Arrays and Strings](arrays-and-strings.md)
+- [Linked Lists](linked-lists.md)
+- Stacks
+- Queues
+- Trees
+- Graphs
+- Search
+
+I will study the topics, document all useful resources, solve 5/10 problems in each topic and update the community every 2 hours.
+
