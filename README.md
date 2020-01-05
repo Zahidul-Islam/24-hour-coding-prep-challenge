@@ -6,7 +6,7 @@ I started my 24-hour coding Interview prep challenge at 10:00 AM. I have a perfe
 
 - [Arrays and Strings](arrays-and-strings.md)
 - [Linked Lists](linked-lists.md)
-- Stacks
+- [Stacks](stacks.md)
 - Queues
 - Trees
 - Graphs
